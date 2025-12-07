@@ -1,0 +1,6 @@
+### requirements.txt
+networkx
+numpy
+matplotlib
+ipython
+jupyter
